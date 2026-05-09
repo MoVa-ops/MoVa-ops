@@ -3,14 +3,22 @@
 ## 💻 Junior Fullstack Developer | React | Node.js
 
 Aspiring Fullstack Developer passionate about building modern web applications and continuously improving my skills.
-Currently developing expertise in JavaScript, TypeScript, React, Next.js, and Node.js.
+Currently developing my expertise in JavaScript, TypeScript, React, Next.js, and Node.js.
 Open to learning, collaboration, internships, and new opportunities.
 
 ---
 
 ## 🧰 Tech Stack
 
-JavaScript • TypeScript • React • Next.js • Node.js • HTML5 • CSS3 • REST API • Git • MongoDB
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square\&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
 
 ---
 
@@ -18,7 +26,7 @@ JavaScript • TypeScript • React • Next.js • Node.js • HTML5 • CSS3 �
 
 ### 🎬 React Movies
 
-Movie search application built with React, TypeScript, routing, and REST API integration.
+Movie application built with React, TypeScript, routing, and REST API integration.
 
 🔗 https://github.com/MoVa-ops/03-react-movies
 
@@ -44,17 +52,21 @@ State management practice project using Zustand and TypeScript.
 
 ## 🗣️ Languages
 
-🇺🇦 Ukrainian — Native
-🇷🇺 Russian — Native
-🇬🇧 English — C1 (Upper-Intermediate)
-🇨🇳 Chinese — Beginner
-🇫🇷 French — Beginner
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Russian](https://img.shields.io/badge/Russian-Native-green?style=flat-square)
+
+![English](https://img.shields.io/badge/English-C1-blue?style=flat-square)
+
+![Chinese](https://img.shields.io/badge/Chinese-Beginner-lightgrey?style=flat-square)
+
+![French](https://img.shields.io/badge/French-Beginner-lightgrey?style=flat-square)
 
 ---
 
 ## 📫 How to reach me
 
-📧 [valentinamodyrka1@gmail.com](mailto:valentinamodyrka1@gmail.com)
+📧 Email: [valentinamodyrka1@gmail.com](mailto:valentinamodyrka1@gmail.com)
 
 💼 LinkedIn: https://linkedin.com
 
@@ -62,18 +74,4 @@ State management practice project using Zustand and TypeScript.
 
 📱 WhatsApp: https://wa.me/
 
-🌍 Canada
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoVa-ops\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoVa-ops\&layout=compact\&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-[![Valentyna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoVa-ops\&theme=tokyo-night)](https://github.com/MoVa-ops)
+🌍 Location: Canada
